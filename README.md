@@ -1,4 +1,4 @@
-## Hi there, I'm Natalia👋
+## Hi there, I'm is Natalia👋
 
 
 - 🌱 I’m currently learning ... Systems development- SENAI
