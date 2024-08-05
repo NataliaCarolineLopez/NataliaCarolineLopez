@@ -1,8 +1,9 @@
-## Hi there, I'm Natalia👋
+## Hi there, Sou a Natália👋
 
 
-- 🌱 I’m currently learning ... Systems development- SENAI
-- 👯 I really like going out
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love sleep
+- 🌱 Atualmente estou aprendendo: Desenvolvimento de Sistemas - SENAI
+- 😎 Eu gosto muito de sair com amigos e família
+- 😶‍🌫️ Curiosidade: adoro dormir, jogar jogos
+- 
+
 -->
