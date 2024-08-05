@@ -1,4 +1,4 @@
-## Hi there, Sou a Natália👋
+## Oii, Sou a Natália👋
 
 
 - 🌱 Atualmente estou aprendendo: Desenvolvimento de Sistemas - SENAI
