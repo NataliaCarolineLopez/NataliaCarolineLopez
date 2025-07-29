@@ -3,7 +3,6 @@
 <img width="792" height="198" alt="image" src="https://github.com/user-attachments/assets/1a9c0da7-682b-4e02-9a26-0c88211e145f" />
 
 
-
 - 💻 Atualmente estou cursando: Desenvolvimento de Sistemas - SENAI e Ensino Médio no SESI.
 - 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
 
