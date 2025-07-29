@@ -26,7 +26,7 @@
   - WordPress
   - Figma
   
-# Certificações
+  # Certificações
 - ✅ Excel Básico
 - ✅ Lógica de Programação
 - ✅ LGPD
