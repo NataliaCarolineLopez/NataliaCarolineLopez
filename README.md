@@ -3,7 +3,17 @@
 
 - 💻 Atualmente estou cursando: Desenvolvimento de Sistemas - SENAI e Ensino Médio no SESI
 - 😍 Eu gosto muito de sair com amigos e família, maquiagens, unhas, praias
-- 📚 Estou dedicada a evoluir constantemente na minha carreira profissional. 
+- 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
+
+  # Conhecimentos
+  - Lógica de programação
+  - HTML
+  - CSS
+  - Banco de dados
+  - Desenvolvimento de Sistemas
+  - Design front-end
+  - WordPress
+  - Figma
   
 # Certificações
 - ✅ Excel Básico
