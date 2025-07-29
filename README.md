@@ -1,9 +1,12 @@
 ## Oii, sou a Natália 🥰
 
+<img width="792" height="198" alt="image" src="https://github.com/user-attachments/assets/adc61e86-9904-49f2-a0d9-945bb0b1546f" />
 
 - 💻 Atualmente estou cursando: Desenvolvimento de Sistemas - SENAI e Ensino Médio no SESI
-- 😍 Eu gosto muito de sair com amigos e família, maquiagens, unhas, praias
 - 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
+
+  Sempre fui interessada por tecnologia 
+
 
 
   # Conhecimentos
