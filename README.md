@@ -4,8 +4,6 @@
 
 
 
-
-
 - 💻 Atualmente estou cursando: Desenvolvimento de Sistemas - SENAI e Ensino Médio no SESI
 - 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
 
