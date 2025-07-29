@@ -7,6 +7,7 @@
 - 💻 Atualmente estou cursando: Desenvolvimento de Sistemas - SENAI e Ensino Médio no SESI
 - 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
 
+
 Sempre tive interesse por tecnologia, especialmente por como ela transforma nossas vidas de maneiras inovadoras e cria novas oportunidades. 
 Acredito que entender as inovações tecnológicas é essencial para contribuir positivamente para a sociedade, seja criando novos projetos ou 
 ajudando os outros a navegar nesse mundo digital em constante evolução.
