@@ -5,7 +5,7 @@
 - 😍 Eu gosto muito de sair com amigos e família, maquiagens, unhas, praias
 - 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
 
-  # Conhecimentos
+  ## Conhecimentos
   - Lógica de programação
   - HTML
   - CSS
