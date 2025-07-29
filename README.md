@@ -8,11 +8,11 @@
 - 📚 Estou dedicada a evoluir constantemente na minha carreira profissional.
 
 
-Sempre tive interesse por tecnologia, especialmente por como ela transforma nossas vidas de maneiras inovadoras e cria novas oportunidades. 
-Acredito que entender as inovações tecnológicas é essencial para contribuir positivamente para a sociedade, seja criando novos projetos ou 
-ajudando os outros a navegar nesse mundo digital em constante evolução.
+  Sempre tive interesse por tecnologia, especialmente por como ela transforma nossas vidas de maneiras inovadoras e cria novas oportunidades. 
+  Acredito que entender as inovações tecnológicas é essencial para contribuir positivamente para a sociedade, seja criando novos projetos ou 
+  ajudando os outros a navegar nesse mundo digital em constante evolução.
 
-Porém meu interesse de um tempo pra cá foi em uma empresa automotiva específica que frequento desde pequena, onde apareceu uma oportunidade e já estou buscando recursos para atuar lá dentro.
+  Porém meu interesse de um tempo pra cá foi em uma empresa automotiva específica que frequento desde pequena, onde apareceu uma oportunidade e já estou buscando recursos     para atuar lá dentro.
 
 
 
