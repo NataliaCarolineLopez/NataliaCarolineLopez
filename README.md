@@ -16,15 +16,15 @@
 
 
 
-  # Conhecimentos
-  - Lógica de programação
-  - HTML
-  - CSS
-  - Banco de dados
-  - Desenvolvimento de Sistemas
-  - Design front-end
-  - WordPress
-  - Figma
+ # Conhecimentos
+ - Lógica de programação
+ - HTML
+ - CSS
+ - Banco de dados
+ - Desenvolvimento de Sistemas
+ - Design front-end
+ - WordPress
+ - Figma
   
 # Certificações
 - ✅ Excel Básico
