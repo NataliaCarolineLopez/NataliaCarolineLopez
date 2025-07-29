@@ -21,7 +21,6 @@
  - HTML
  - CSS
  - Banco de dados
- - Desenvolvimento de Sistemas
  - Design front-end
  - WordPress
  - Figma
